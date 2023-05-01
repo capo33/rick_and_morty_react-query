@@ -1,4 +1,4 @@
-## City-Bike-Dev-Academy-task
+## Rick and morty
 ![alt text](./src/assets/rick-morty.png)
 
 ## Description
